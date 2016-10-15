@@ -28,3 +28,9 @@ a:hover, a:active {
     /* color: MediumAquaMarine; */
 	text-decoration: none;
 	}
+
+body{
+max-width: 600px;
+margin: 0 auto !important;
+float: none !important;
+}
